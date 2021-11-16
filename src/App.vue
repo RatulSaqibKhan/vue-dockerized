@@ -17,23 +17,30 @@
 
 <style>
 body {
-  background-color: #e5eccc;
+  background-color: #90e0ef;
 }
 
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'Fira Mono', monospace;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #dbe1e7!important;
 }
 
+p, a {
+  color: #dbe1e7;
+}
 p {
-  color: #dbe1e7!important;
+  line-height: 1.9rem;
 }
 
 nav a {
   font-weight: bold;
   color: #fff!important;
+}
+
+.black {
+  color: black;
 }
 </style>
